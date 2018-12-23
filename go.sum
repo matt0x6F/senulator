@@ -1,0 +1,6 @@
+github.com/cisco/senml v0.0.0-20181031221301-910a55054e16 h1:gVMpF6unIWOG8JgCt3XhlYdT3lRFDcMMVJdMesU+TQY=
+github.com/cisco/senml v0.0.0-20181031221301-910a55054e16/go.mod h1:pLFASTQEf1nGfvoMwxmOjLeImwMKQMx18w38UcI9ZfI=
+github.com/dgryski/go-discreterand v0.0.0-20180204192347-5b1f7d9d6e6f h1:0gm1R+ll/+g196qmODLYuQqflmxummKl6sP50LfmyZY=
+github.com/dgryski/go-discreterand v0.0.0-20180204192347-5b1f7d9d6e6f/go.mod h1:haEny4W7uAjJmuNPZ/RgbUREXBUKuBL+H+bYuBbiAbA=
+github.com/ugorji/go/codec v0.0.0-20181209151446-772ced7fd4c2 h1:EICbibRW4JNKMcY+LsWmuwob+CRS1BmdRdjphAm9mH4=
+github.com/ugorji/go/codec v0.0.0-20181209151446-772ced7fd4c2/go.mod h1:VFNgLljTbGfSG7qAOspJ7OScBnGdDN/yBr0sguwnwf0=
